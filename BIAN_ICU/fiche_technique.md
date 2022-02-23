@@ -51,3 +51,25 @@ Ce qui m’a plu le plus était les couleurs et les sons utilisés. Les couleurs
 J’ajouterais peut-être des écrans animés comme arrière-plan placés sur les quatre coins de la pièce. Je n’aimais pas vraiment le fond noir. Les écrans auraient pu davantage exprimés les émotions des squelettes.
 
 ## Références
+
+## Photographies et croquis à intégrer
+
+ photographie de l'oeuvre ou du dispositif dans son ensemble
+ 
+ ![IMG_20220209_154457596](https://user-images.githubusercontent.com/89608228/155382003-e10a1057-951f-444c-9833-75c79c84816f.jpg)
+ 
+ photographies des composantes de l'oeuvre
+ ![IMG_20220209_154536183](https://user-images.githubusercontent.com/89608228/155382022-9f102a42-12cb-4fab-8ade-31c8d843eb5b.jpg)
+![IMG_20220209_154532047](https://user-images.githubusercontent.com/89608228/155382035-635ddb62-fc0b-40c3-b641-20eceeaf93ad.jpg)
+![IMG_20220209_155148413](https://user-images.githubusercontent.com/89608228/155382068-6d2de8ae-b5b1-4a4c-ae75-48dfa973c831.jpg)
+ photographies des éléments nécessaires à sa mise en espace
+ ![IMG_20220209_154045305](https://user-images.githubusercontent.com/89608228/155382118-1c5683f5-f738-4673-a86f-e8c29e04e693.jpg)
+
+ photographie du cartel ou du panneau explicatif
+ ![IMG_20220209_154834000](https://user-images.githubusercontent.com/89608228/155382351-1e8b5e0f-4f6e-4ce2-9dd0-995db9100fc8.jpg)
+
+ autoportrait (photo) de vous avec l'oeuvre
+ ![IMG_20220209_154914013](https://user-images.githubusercontent.com/89608228/155382441-0ae419cb-299b-4898-8d17-c09666144bf2.jpg)
+
+ croquis de la mise en espace (choisir la vue la plus pertinente : plan ou élévation)
+ ![IMG_20220209_154509151](https://user-images.githubusercontent.com/89608228/155382553-941a0a77-fcf8-4279-ba98-2080fa255039.jpg)
