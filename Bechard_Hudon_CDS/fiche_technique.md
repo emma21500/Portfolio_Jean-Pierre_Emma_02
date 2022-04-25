@@ -1,5 +1,3 @@
-# Titre de l'oeuvre ou de la réalisation
-
 
 ## Titre de l'oeuvre ou de la réalisation
 
