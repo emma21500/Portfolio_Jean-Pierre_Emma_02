@@ -1,25 +1,27 @@
 
 ## Titre de l'oeuvre ou de la réalisation
-Mécanismes de dessaisissement(rond, carré, triangle)
+L'oeuvre s'intitule Mécanismes de dessaisissement(rond, carré, triangle)
 
 ## Nom de l'artiste ou de la firme
-Béchard Hudon
+Le nom de l'artiste est Béchard Hudon
 
 ## Année de réalisation
-2019-2021
+L'oeuvre a été réalisée de 2019 à 2021
 
 ## Nom de l'exposition ou de l'événement
-Configuration du sensible 
+L'exposition s'intitule Configuration du sensible 
 
 ## Lieu de mise en exposition
-Maison des Arts, Laval
+L'exposition a eu lieu à la Maison des Arts (Laval, Québec)
 
 ## Date de votre visite
-16 mars 2022
+La visite a eu lieu le 16 mars 2022
 
 ## Description de l'oeuvre ou du dispositif multimédia 
+"S'activant via des détecteurs de mouvement, les sculptures murales qui composent la série Mécanismes de dessaisissement tendent à capter le regard, l'emportant dans une chorégraphie à la fois géométrique, lumineuse et chromatique. Dessinées une à une au moyen d'un logiciel, les fines rayures caractérisent les surfaces en action génèrent des champs de profondeur mouvants qui complexifient l'expérience visuelle dans le temps. Par ailleurs, les dipositifs électromécaniques qui alimentent ces structures sont laissés visibles de façon à déjouer la pureté formelle de l'ensemble,entre autres à travers les lignes plus aléatoires qui dessinent les fils électriques." Tiré du cartel de l'exposition
 
 ## Explications sur la mise en espace de l'oeuvre ou du dispositif (texte à composer)
+L´oeuvre est suspendue sur un mur à l'aide de tiges, qui sont elles installées directement sur le mur. De plus, on retrouve un dispositif mécanique qui permet à l'oeuvre de bouger en rotation. Le processus du dispositif s'active à grâce à un détecteur de mouvement installé sur le bas de l'oeuvre. L'oeuvre est divisée en trois formes, un cercle, un carré et un triangle. Ces trois formes font toutes la même chose.
 
 ## Liste des composantes et techniques de l'oeuvre ou du dispositif (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...)
 
