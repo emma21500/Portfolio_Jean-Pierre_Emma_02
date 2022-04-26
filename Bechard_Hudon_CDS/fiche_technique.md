@@ -24,12 +24,19 @@ La visite a eu lieu le 16 mars 2022
 L´oeuvre est suspendue sur un mur à l'aide de tiges, qui sont elles installées directement sur le mur. De plus, on retrouve un dispositif mécanique qui permet à l'oeuvre de bouger en rotation. Le processus du dispositif s'active à grâce à un détecteur de mouvement installé sur le bas de l'oeuvre. L'oeuvre est divisée en trois formes, un cercle, un carré et un triangle. Ces trois formes font toutes la même chose.
 
 ## Liste des composantes et techniques de l'oeuvre ou du dispositif (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...)
+- Projecteurs
+- Détecteurs de mouvement 
+- Fils électriques
+- ordinateur installé en arrière (permet à l'oeuvre de bouger)
 
 ## Liste des éléments nécessaires pour la mise en exposition (ex. : crochets, sac de sable, câbles de soutien...)
+-	Deux cadres en métal (un fixé au mur derrière l'oeuvre et l'autre fixé directement derrière l'oeuvre)
+-	Tiges de métal qui relient les deux cadres
 
 ## Expérience vécue :
 
 ## Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
+J'ai bien aimé mon expérience à la Maison des Arts. Je trouve que l'oeuvre était simple, mais complexe à la fois. Elle 
 
 ## Ce qui vous a plu, vous a donné des idées et justifications
 
