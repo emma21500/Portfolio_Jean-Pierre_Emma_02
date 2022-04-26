@@ -1,15 +1,21 @@
 
 ## Titre de l'oeuvre ou de la réalisation
+Mécanismes de dessaisissement(rond, carré, triangle)
 
 ## Nom de l'artiste ou de la firme
+Béchard Hudon
 
 ## Année de réalisation
+2019-2021
 
 ## Nom de l'exposition ou de l'événement
+Configuration du sensible 
 
 ## Lieu de mise en exposition
+Maison des Arts, Laval
 
 ## Date de votre visite
+16 mars 2022
 
 ## Description de l'oeuvre ou du dispositif multimédia 
 
