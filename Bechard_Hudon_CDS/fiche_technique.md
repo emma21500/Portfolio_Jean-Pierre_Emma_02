@@ -39,8 +39,11 @@ L´oeuvre est suspendue sur un mur à l'aide de tiges, qui sont elles installée
 J'ai bien aimé mon expérience à la Maison des Arts. Je trouve que l'oeuvre était simple, mais complexe à la fois. Elle 
 
 ## Ce qui vous a plu, vous a donné des idées et justifications
+J'ai bien aimé l'oeuvre en général. La raison pourquoi j'ai choisi cette oeuvre est son coté simple. L'oeuvre avait des couleurs simples (rouge,vert et bleu) sur un fond blanc et les dispositifs électriques étaient noirs. De plus, une forme énorme était représentée derrière chacun
+
 
 ## Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
+L'aspect que je ne voudrais pas retenir est celui des détecteurs de mouvements. J"ai trouver qu'ajouter cet élément à l'oeuvre était très original. Cependant, le détecteurs étaient quasiment impossible à remarquer. Les mouvements du dispositif étaient seulement remarquables qu'après une dizaine de minute, tellement le mouvement était lent. De plus, la seule façon de savoir qu'il y avait des détecteurs de mouvement étaient en lisant le cartel, chose que peu de personne font.
 
 ## Références
 
