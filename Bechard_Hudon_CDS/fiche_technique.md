@@ -50,7 +50,7 @@ L'aspect que je ne voudrais pas retenir est celui des détecteurs de mouvements.
 ## Photographies et croquis à intégrer
 
  photographie de l'oeuvre ou du dispositif dans son ensemble
- 
+ ![bh_mecanisme_dessaisissement_carre.jpg]
  photographies des composantes de l'oeuvre
  
  photographies des éléments nécessaires à sa mise en espace
