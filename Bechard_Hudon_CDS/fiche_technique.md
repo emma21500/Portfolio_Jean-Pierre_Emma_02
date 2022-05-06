@@ -27,7 +27,8 @@ L´oeuvre est suspendue sur un mur à l'aide de tiges, qui sont elles installée
 - Projecteurs
 - Détecteurs de mouvement 
 - Fils électriques
-- ordinateur installé en arrière (permet à l'oeuvre de bouger)
+- Tiges mécaniques( fait bouger l'oeuvre)
+- ordinateur installé en arrière (programmé pour permettre à l'oeuvre de bouger)
 
 ## Liste des éléments nécessaires pour la mise en exposition (ex. : crochets, sac de sable, câbles de soutien...)
 -	Deux cadres en métal (un fixé au mur derrière l'oeuvre et l'autre fixé directement derrière l'oeuvre)
