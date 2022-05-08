@@ -25,10 +25,10 @@
 
 - [ ] Expérience vécue (Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité/contemplation/immersion, des gestes à poser, etc)
 - Expérience : J'ai vraiment aimé mon expérience. Il suffisait tout simplement de s'asseoir et d'écouter l'instructeur faire la présentation. Au fur et à mesure que    celui-ci expliquait, il fallait suivre ce qu'il disait à l'écran.
--
+
 - [ ] Appréciation critique et **justifications** (Ce qui vous a plu, vous a donné des idées + Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement)
 - Critique : Durant la présentation, il fallait toujours se retourner pour voir la projection et après un certain moment ça devenait vraiment incomfortable. Je pense que le plus gros problème était la façon dont les chaises étaient disposées dans la salle. Je mettrais des chaises qui peuvent pivoter sur elle-même pur qu'ainsi on puisse toute la présentation sans à avoir un torticolis.
-- 
+
 -  [ ] Liens avec autres oeuvres et expériences multimédias découvertes cette session
 - Lien : l'oeuvre à laquelle j'ai pensé durant l'exposition est «Le Fleuve», un art qu'on a visité à l'exposition de Béchard Hudon à la Maison des Arts en mars 2022. Ces deux oeuvres se ressemblent énormément, il suffit tout simplement de regarder les oeuvres sans à avoir besoin d'interagir avec elles. Les deux sont des présentations numériques présentées à l'aide de projecteurs et de haut-parleurs.
 
