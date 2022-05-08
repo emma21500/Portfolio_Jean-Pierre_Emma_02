@@ -51,15 +51,18 @@ L'aspect que je ne voudrais pas retenir est celui des détecteurs de mouvements.
 ## Photographies et croquis à intégrer
 
  photographie de l'oeuvre ou du dispositif dans son ensemble
- ![bh_mecanisme_dessaisissement_carre.jpg]
+ ![Ensemble de l'oeuvre](medias/bh_mecanisme_dessaisissement_ensemble.jpg)
  photographies des composantes de l'oeuvre
+ ![Composamtes de l'oeuvre](medias/bh_mecanisme_dessaisissement_carre.jpg)
  
  photographies des éléments nécessaires à sa mise en espace
+ ![Éléments nécessaires](medias/bh_mecanisme_dessaisissement_dispositif_cercle.jpg)
  
  photographie du cartel ou du panneau explicatif
- 
+ ![Cartel](medias/bh_mecanisme_dessaisissement_cartel.jpg) 
  autoportrait (photo) de vous avec l'oeuvre
+ ![Selfie](medias/bh_mecanisme_dessaisissement_selfie.jpg)
  
  croquis de la mise en espace (choisir la vue la plus pertinente : plan ou élévation)
- 
- possibilité d'intégrer de courts vidéos pour documenter les actions de l'oeuvre ou l'interactivité avec celle-ci
+ ![Croquis de côté](croquis/bh_mecanisme_dessaisissement_croquis_cote.PNG)
+ ![Croquis de face](croquis/bh_mecanisme_dessaisissement_croquis_face.PNG)
