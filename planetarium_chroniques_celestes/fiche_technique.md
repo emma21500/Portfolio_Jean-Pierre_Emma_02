@@ -53,19 +53,16 @@ Cette installation m'a beaucoup fait penser à l'oeuvre «Le Fleuve», un art qu
 
 ## Références
 
-## Photographies et croquis à intégrer
-
+ photographies et croquis à intégrer
+ ![croquis](medias/planetarium_croquis.PNG)
+ 
  photographie de l'oeuvre ou du dispositif dans son ensemble
- 
- photographies des composantes de l'oeuvre
- 
- photographies des éléments nécessaires à sa mise en espace
+ ![extérieur](medias/planetarium_exterieur.jpg)
+ ![salle extérieur](medias/planetarium_salle_exterieur.jpg)
+ ![salle intérieur](medias/planetarium_salle_interieur.jpg)
  
  photographie du cartel ou du panneau explicatif
+ ![cartel 1](medias/planetarium_voyageurs_stellaires_cartel.PNG)
+ ![caretl 2](medias/planetarium_chroniques_celestes_cartel.PNG)
  
- autoportrait (photo) de vous avec l'oeuvre
- 
- croquis de la mise en espace (choisir la vue la plus pertinente : plan ou élévation)
- 
- possibilité d'intégrer de courts vidéos pour documenter les actions de l'oeuvre ou l'interactivité avec celle-ci
 
