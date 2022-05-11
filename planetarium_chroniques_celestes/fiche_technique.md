@@ -62,6 +62,7 @@ Cette installation m'a beaucoup fait penser à l'oeuvre «Le Fleuve», un art qu
  ![salle intérieur](medias/planetarium_salle_interieur.jpg)
  
  photographie du cartel ou du panneau explicatif
+ 
  ![cartel 1](medias/planetarium_voyageurs_stellaires_cartel.PNG)
  ![caretl 2](medias/planetarium_chroniques_celestes_cartel.PNG)
  
