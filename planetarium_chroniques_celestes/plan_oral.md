@@ -1,7 +1,7 @@
 *Introduction* :
 - [ ] Quel est l'objectif de votre communication (sujet posé = présentation oeuvre + expérience)
 - Présenter l'exposition que je suis allée voir au Planétarium, Chroniques Célestes et Voyageurs Stellaires
-- J'ai vraiment aimé mon expérience, j'en ai appris plus sur notre système solaire comme les planètes et leur satelites, les différentes constellations, les milliards     d'univers qui existent. À quoi ressemble le quotidien des astronautes qui vivent dans l'espace et leurs difficultés.
+- J'ai bien aimé mon expérience, assiter à cette présentation m'a permis d'en apprendre un peu plus sur l'astronomie et sur la vie d'un astonautes en services. Puisque c'était une présentation immersive, le seule geste à poser c'était d'écouter la présentateur.
 - [ ] Quels aspects seront abordés ? (sujet divisé = les différents points du développement)
 -Information sur l'oeuvre
 -Description de l'oeuvre
